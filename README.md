@@ -24,3 +24,7 @@ Begins and continues listening for scans. This is activated upon initialization
 ### `.stopListening()`
 
 Stops listening for scans.
+
+## License
+
+MIT © [Kevin Jantzer](https://twitter.com/kjantzer) – Blackstone Publishing
