@@ -29,7 +29,7 @@ Stops listening for scans.
 
 Tested on the following
 
-- Chrome Desktop (other modern browsers should work)
+- Chrome Desktop (other modern browsers should work too)
 - [Archer@ Enterprise Handheld Mobile Terminal](https://www.amazon.com/dp/B078NRJGNW)
 - [IOT Handheld Terminal](https://www.amazon.com/dp/B0774XWRGV)
 - Android Devices with Bluetooth Scanner (keyboard wedge entry)
